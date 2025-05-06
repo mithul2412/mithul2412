@@ -10,6 +10,8 @@
 
 ## 🌟 About Me
 
+<div align="center">
+
 ```python
 def mithul_raaj():
     while True:
@@ -18,23 +20,19 @@ def mithul_raaj():
         build_solutions()
         if coffee_empty():
             refill_coffee()
-        share_knowledge()
-        contribute_to_community()
+        innovate()
 ```
+
+</div>
 
 In the vast neural network of life, I'm a node constantly optimizing for impact. Architecting AI solutions that bridge the gap between data chaos and actionable intelligence. My algorithms run on curiosity, my functions return innovation, and my passion variables never go out of scope. Join me at the intersection of coding and creativity, where we transform complex hurdles into elegant solutions!
 
 🎓 MS in Data Science – University of Washington, Seattle
-🤖 Passionate about AI research & applied machine learning
-💡 Building solutions in Energy, Autonomous Systems, and NLP automation
-🚀 Developing AI-powered systems for real-world impact across industries
-🧠 Expertise in Reinforcement Learning, RAG systems, and LLM fine-tuning
-📊 Skilled in time-series forecasting, anomaly detection & predictive analytics
-🔄 Implementing ML pipelines with intelligent workflows & microservices
-🌐 Experience with distributed computing using Spark, Airflow & Kubernetes
+🚀 Experienced in Data Science, ML, NLP, Reinforcement Learning & LLMs
+🌐 MLOps & Cloud builder crafting end-to-end ML pipelines for scale
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BalajiBoopal&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mithul2412&theme=github_dark" />
 </p>
 
 ## 🔧 Languages & Frameworks
@@ -89,15 +87,10 @@ In the vast neural network of life, I'm a node constantly optimizing for impact.
 
 ## 📚 Publications
 
-<div align="center">
-  <a href="https://www.mdpi.com/journal/iot">
-    <img src="https://img.shields.io/badge/MDPI_IoT_Journal-Intelligent_Energy_Management-teal?style=for-the-badge" />
-  </a>
-  
-  <a href="https://ieeexplore.ieee.org">
-    <img src="https://img.shields.io/badge/IEEE_S4IoT_Symposium-Smart_Grid_Management-navy?style=for-the-badge" />
-  </a>
-</div>
+**[Taxi Revenue Optimization with Deep Q-Learning and Enhanced Data Visualization](https://ieeexplore.ieee.org/document/10574699/)** – *[AIIoT Conference](https://aiiot-conference.org/), 2024*  
+
+ **[Intelligent Energy Management across Smart Grids Deploying 6G IoT, AI, and Blockchain in Sustainable Smart Cities](https://www.mdpi.com/2624-831X/5/3/25)** – *[MDPI IoT Journal](https://www.mdpi.com/journal/iot), 2024*  
+
 
 ## 📊 Contributions
 
