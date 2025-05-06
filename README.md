@@ -13,9 +13,9 @@
 <br />
 
 <div align="center">
-<a>
-    <img align="center" src="https://raw.githubusercontent.com/mithul2412/mithul2412/master/assets/mycode.png" />
-</a>
+
+<img src="https://raw.githubusercontent.com/mithul2412/mithul2412/master/assets/mycode.png" width="400" alt="Code Loop" />
+
 </div>
 
 <br />
@@ -27,13 +27,6 @@ In the vast neural network of life, I'm a node constantly optimizing for impact.
 - 🌐 *MLOps & Cloud builder crafting end-to-end ML pipelines for scale*
 
 <br />
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mithul2412&theme=github_dark" />
-</p>
-
-<br />
-
 
 ## 🔧 Languages & Frameworks
 
@@ -52,6 +45,8 @@ In the vast neural network of life, I'm a node constantly optimizing for impact.
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </div>
 
+<br />
+
 ## 🛠️ Tools & Technologies
 
 <div align="center">
@@ -69,6 +64,8 @@ In the vast neural network of life, I'm a node constantly optimizing for impact.
   <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
 </div>
 
+<br />
+
 ## 🚀 Featured Projects 
 
 - **[OptionsViz - RAG powered LLM  for Options Market Analysis and Strategies Recommendation](https://github.com/mithul2412/OptionsViz)**
@@ -79,6 +76,8 @@ In the vast neural network of life, I'm a node constantly optimizing for impact.
 
 - **[RentQuest - AI powered Housing Platform integrating Zillow data for Personalized Recommendations](https://github.com/mithul2412/RentQuest)**
 
+<br />
+
 ## 📚 Featured Publications
 
 - **[Intelligent Energy Management across Smart Grids Deploying 6G IoT, AI, and Blockchain in Sustainable Smart Cities](https://www.mdpi.com/2624-831X/5/3/25)** – *MDPI IoT Journal, 2024* [[Github repo]](https://github.com/mithul2412/Intelligent-Electrical-Grids-with-AI)
@@ -88,12 +87,22 @@ In the vast neural network of life, I'm a node constantly optimizing for impact.
    
 - **[A Comprehensive Exploration on Different Machine Learning Techniques for State of Charge Estimation of EV Battery](https://ieeexplore.ieee.org/document/10294352)** – *IEEE UPEC Conference, 2023* [[Github repo]](https://github.com/mithul2412/Li-Ion-Battery-Estimation-using-ML-for-EV)
 
+<br />
 
 ## 📊 Contributions
+
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mithul2412&theme=github_dark" />
+</p>
+
+<br />
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mithul2412&theme=react-dark" alt="Contribution Graph" />
 </div>
+
+<br />
 
 ## 🌐 Connect With Me
 
