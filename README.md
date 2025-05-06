@@ -27,9 +27,10 @@ def mithul_raaj():
 
 In the vast neural network of life, I'm a node constantly optimizing for impact. Architecting AI solutions that bridge the gap between data chaos and actionable intelligence. My algorithms run on curiosity, my functions return innovation, and my passion variables never go out of scope. Join me at the intersection of coding and creativity, where we transform complex hurdles into elegant solutions!
 
-- 🎓 MS in Data Science – University of Washington, Seattle
-- 🚀 Experienced in Data Science, ML, NLP, Reinforcement Learning & LLMs
-- 🌐 MLOps & Cloud builder crafting end-to-end ML pipelines for scale
+- 🎓 *MS in Data Science – University of Washington, Seattle*
+- 🚀 *Experienced in Data Science, ML, NLP, Reinforcement Learning & LLMs*
+- 🌐 *MLOps & Cloud builder crafting end-to-end ML pipelines for scale*
+  
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mithul2412&theme=github_dark" />
@@ -88,6 +89,15 @@ In the vast neural network of life, I'm a node constantly optimizing for impact.
 ## 📚 Publications
 
 **[Taxi Revenue Optimization with Deep Q-Learning and Enhanced Data Visualization](https://ieeexplore.ieee.org/document/10574699/)** – *[AIIoT Conference](https://aiiot-conference.org/), 2024*  
+
+<div align="center">
+  <a href="https://ieeexplore.ieee.org/document/10574699/">
+    <img src="https://img.shields.io/badge/IEEE-Taxi_Revenue_Optimization_with_Deep_Q--Learning_and_Enhanced_Data_Visualization-blue?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/yourusername/taxi-optimization">
+    <img src="https://img.shields.io/badge/GitHub-Repository-success?style=for-the-badge&logo=github" />
+  </a>
+</div>
 
  **[Intelligent Energy Management across Smart Grids Deploying 6G IoT, AI, and Blockchain in Sustainable Smart Cities](https://www.mdpi.com/2624-831X/5/3/25)** – *[MDPI IoT Journal](https://www.mdpi.com/journal/iot), 2024*  
 
