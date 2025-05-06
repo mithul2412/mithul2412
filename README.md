@@ -2,13 +2,21 @@
   
 # Hi, Mithul here 👋
 
-### Machine Learning | Data Science | Software Development
+### Machine Learning | Data Science | Software Development 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=4682B4&center=true&vCenter=true&random=false&width=600&height=100&lines=Data+Scientist;ML+Engineer;Software+Developer;Problem+Solver" alt="Typing SVG" />
 
 </div>
 
 ## 🌟 About Me
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=4682B4&center=true&vCenter=true&random=false&width=600&height=100&lines=Data+Scientist;ML+Engineer;Software+Developer;Problem+Solver" alt="Typing SVG" />
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a" />
+</div>
 
 ```python
 def mithul_raaj():
@@ -67,7 +75,7 @@ In the vast neural network of life, I'm a node constantly optimizing for impact.
   <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
 </div>
 
-## 🚀 Featured Projects and Publications
+## 🚀 Featured Projects 
 
 - **[OptionsViz - RAG powered LLM  for Options Market Analysis and Strategies Recommendation](https://github.com/mithul2412/OptionsViz)**
 
