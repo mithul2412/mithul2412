@@ -20,7 +20,7 @@ In the vast neural network of life, I'm a node constantly optimizing for impact.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mithul2412/mithul2412/master/assets/mycode.png" width="250" alt="Code Loop" />
+<img src="https://raw.githubusercontent.com/mithul2412/mithul2412/master/assets/mycode.png" width="220" alt="Code Loop" />
 
 </div>
 
@@ -78,13 +78,13 @@ In the vast neural network of life, I'm a node constantly optimizing for impact.
 
 ## 📚 Featured Publications
 
-- **[Intelligent Energy Management across Smart Grids Deploying 6G IoT, AI, and Blockchain in Sustainable Smart Cities](https://www.mdpi.com/2624-831X/5/3/25)** – *MDPI IoT Journal, 2024*
+- **[Intelligent Energy Management across Smart Grids Deploying AI, IoT and Blockchain in Sustainable Cities](https://www.mdpi.com/2624-831X/5/3/25)** – *MDPI IoT Journal, 2024*
   <br />[[Github repo]](https://github.com/mithul2412/Intelligent-Electrical-Grids-with-AI)
 
 - **[Taxi Revenue Optimization with Deep Q-Learning and Enhanced Data Visualization](https://ieeexplore.ieee.org/document/10574699/)** – *IEEE AIIoT Conference, India 2024
   <br />[[Github repo]](https://github.com/mithul2412/Reinforcement-Learning_Revenue-Optimization)
    
-- **[A Comprehensive Exploration on Different Machine Learning Techniques for State of Charge Estimation of EV Battery](https://ieeexplore.ieee.org/document/10294352)** – *IEEE UPEC Conference, 2023*
+- **[A Comprehensive Exploration on Different ML Techniques for State of Charge Estimation of EV Battery](https://ieeexplore.ieee.org/document/10294352)** – *IEEE UPEC Conference, 2023*
   <br /> [[Github repo]](https://github.com/mithul2412/Li-Ion-Battery-Estimation-using-ML-for-EV)
 
 <br />
