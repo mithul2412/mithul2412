@@ -1,8 +1,8 @@
 <div align="center">
   
-# 👨‍💻 MITHUL RAAJ
+# Hi, Mithul here 👋
 
-### ML | Data Science | Software Development
+### Machine Learning | Data Science | Software Development
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=4682B4&center=true&vCenter=true&random=false&width=600&height=100&lines=Data+Scientist;ML+Engineer;Software+Developer;Problem+Solver" alt="Typing SVG" />
 
@@ -28,7 +28,9 @@ def mithul_raaj():
 In the vast neural network of life, I'm a node constantly optimizing for impact. Architecting AI solutions that bridge the gap between data chaos and actionable intelligence. My algorithms run on curiosity, my functions return innovation, and my passion variables never go out of scope. Join me at the intersection of coding and creativity, where we transform complex hurdles into elegant solutions!
 
 🎓 MS in Data Science – University of Washington, Seattle
+
 🚀 Experienced in Data Science, ML, NLP, Reinforcement Learning & LLMs
+
 🌐 MLOps & Cloud builder crafting end-to-end ML pipelines for scale
 
 <p align="center">
