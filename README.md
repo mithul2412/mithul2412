@@ -81,7 +81,7 @@ In the vast neural network of life, I'm a node constantly optimizing for impact.
 - **[Intelligent Energy Management across Smart Grids Deploying AI, IoT and Blockchain in Sustainable Cities](https://www.mdpi.com/2624-831X/5/3/25)** – *MDPI IoT Journal, 2024*
   <br />[[Github repo]](https://github.com/mithul2412/Intelligent-Electrical-Grids-with-AI)
 
-- **[Taxi Revenue Optimization with Deep Q-Learning and Enhanced Data Visualization](https://ieeexplore.ieee.org/document/10574699/)** – *IEEE AIIoT Conference, India 2024
+- **[Taxi Revenue Optimization with Deep Q-Learning and Enhanced Data Visualization](https://ieeexplore.ieee.org/document/10574699/)** – *IEEE AIIoT Conference, India 2024*
   <br />[[Github repo]](https://github.com/mithul2412/Reinforcement-Learning_Revenue-Optimization)
    
 - **[A Comprehensive Exploration on Different ML Techniques for State of Charge Estimation of EV Battery](https://ieeexplore.ieee.org/document/10294352)** – *IEEE UPEC Conference, 2023*
