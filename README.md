@@ -22,7 +22,20 @@ def mithul_raaj():
         contribute_to_community()
 ```
 
-In the vast neural network of life, I'm a node constantly optimizing for impact. Architecting AI solutions that bridge the gap between data chaos and actionable intelligence. My algorithms run on curiosity, my functions return innovation, and my passion variables never go out of scope. Join me at the intersection of mathematics and creativity, where we transform complex matrices into elegant solutions!
+In the vast neural network of life, I'm a node constantly optimizing for impact. Architecting AI solutions that bridge the gap between data chaos and actionable intelligence. My algorithms run on curiosity, my functions return innovation, and my passion variables never go out of scope. Join me at the intersection of coding and creativity, where we transform complex hurdles into elegant solutions!
+
+🎓 MS in Data Science – University of Washington, Seattle
+🤖 Passionate about AI research & applied machine learning
+💡 Building solutions in Energy, Autonomous Systems, and NLP automation
+🚀 Developing AI-powered systems for real-world impact across industries
+🧠 Expertise in Reinforcement Learning, RAG systems, and LLM fine-tuning
+📊 Skilled in time-series forecasting, anomaly detection & predictive analytics
+🔄 Implementing ML pipelines with intelligent workflows & microservices
+🌐 Experience with distributed computing using Spark, Airflow & Kubernetes
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BalajiBoopal&theme=github_dark" />
+</p>
 
 ## 🔧 Languages & Frameworks
 
@@ -95,7 +108,7 @@ In the vast neural network of life, I'm a node constantly optimizing for impact.
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mithulraaj24/" target="_blank">
+  <a href="https://www.linkedin.com/in/mithul-raaj-772ba623b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:mithulraaj24@gmail.com" target="_blank">
