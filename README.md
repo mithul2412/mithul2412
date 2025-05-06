@@ -10,19 +10,15 @@
 
 ## 🌟 About Me
 
-```python
-def mithul_raaj():
-    while True:
-        explore_data()
-        discover_patterns()
-        build_solutions()
-        if coffee_empty():
-            refill_coffee()
-        innovate()
-```
- <a>
+<br />
+
+<div align="center">
+<a>
     <img align="center" src="https://raw.githubusercontent.com/mithul2412/mithul2412/master/assets/mycode.png" />
-  </a>
+</a>
+</div>
+
+<br />
 
 In the vast neural network of life, I'm a node constantly optimizing for impact. Architecting AI solutions that bridge the gap between data chaos and actionable intelligence. My algorithms run on curiosity, my functions return innovation, and my passion variables never go out of scope. Join me at the intersection of coding and creativity, where we transform complex hurdles into elegant solutions!
 
@@ -30,14 +26,13 @@ In the vast neural network of life, I'm a node constantly optimizing for impact.
 - 🚀 *Experienced in Data Science, ML, NLP, Reinforcement Learning & LLMs*
 - 🌐 *MLOps & Cloud builder crafting end-to-end ML pipelines for scale*
 
-  <br />
-  <br />
+<br />
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mithul2412&theme=github_dark" />
 </p>
 
-  <br />
+<br />
 
 
 ## 🔧 Languages & Frameworks
