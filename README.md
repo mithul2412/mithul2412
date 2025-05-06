@@ -10,21 +10,19 @@
 
 ## 🌟 About Me
 
-<br />
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mithul2412/mithul2412/master/assets/mycode.png" width="200" alt="Code Loop" />
-
-</div>
-
-<br />
-
 In the vast neural network of life, I'm a node constantly optimizing for impact. Architecting AI solutions that bridge the gap between data chaos and actionable intelligence. My algorithms run on curiosity, my functions return innovation, and my passion variables never go out of scope. Join me at the intersection of coding and creativity, where we transform complex hurdles into elegant solutions!
 
 - 🎓 *MS in Data Science – University of Washington, Seattle*
 - 🚀 *Experienced in Data Science, ML, NLP, Reinforcement Learning & LLMs*
 - 🌐 *MLOps & Cloud builder crafting end-to-end ML pipelines for scale*
+
+<br />
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mithul2412/mithul2412/master/assets/mycode.png" width="250" alt="Code Loop" />
+
+</div>
 
 <br />
 
