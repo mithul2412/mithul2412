@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mithul2412/mithul2412/master/assets/mycode.png" width="400" alt="Code Loop" />
+<img src="https://raw.githubusercontent.com/mithul2412/mithul2412/master/assets/mycode.png" width="200" alt="Code Loop" />
 
 </div>
 
@@ -98,11 +98,6 @@ In the vast neural network of life, I'm a node constantly optimizing for impact.
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mithul2412&theme=react-dark" alt="Contribution Graph" />
-</div>
-
-<br />
 
 ## 🌐 Connect With Me
 
