@@ -10,8 +10,6 @@
 
 ## 🌟 About Me
 
-<div align="center">
-
 ```python
 def mithul_raaj():
     while True:
@@ -23,7 +21,6 @@ def mithul_raaj():
         innovate()
 ```
 
-</div>
 
 In the vast neural network of life, I'm a node constantly optimizing for impact. Architecting AI solutions that bridge the gap between data chaos and actionable intelligence. My algorithms run on curiosity, my functions return innovation, and my passion variables never go out of scope. Join me at the intersection of coding and creativity, where we transform complex hurdles into elegant solutions!
 
