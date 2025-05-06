@@ -70,7 +70,7 @@ In the vast neural network of life, I'm a node constantly optimizing for impact.
   <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
 </div>
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects and Publications
 
 <div align="center">
   <a href="https://github.com/yourusername/churn-navigator">
@@ -88,18 +88,10 @@ In the vast neural network of life, I'm a node constantly optimizing for impact.
 
 ## 📚 Publications
 
-**[Taxi Revenue Optimization with Deep Q-Learning and Enhanced Data Visualization](https://ieeexplore.ieee.org/document/10574699/)** – *[AIIoT Conference](https://aiiot-conference.org/), 2024*  
+- **[Intelligent Energy Management across Smart Grids Deploying 6G IoT, AI, and Blockchain in Sustainable Smart Cities](https://www.mdpi.com/2624-831X/5/3/25)** – *MDPI IoT Journal, 2024* 
 
-<div align="center">
-  <a href="https://ieeexplore.ieee.org/document/10574699/">
-    <img src="https://img.shields.io/badge/IEEE-Taxi_Revenue_Optimization_with_Deep_Q--Learning_and_Enhanced_Data_Visualization-blue?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/yourusername/taxi-optimization">
-    <img src="https://img.shields.io/badge/GitHub-Repository-success?style=for-the-badge&logo=github" />
-  </a>
-</div>
-
- **[Intelligent Energy Management across Smart Grids Deploying 6G IoT, AI, and Blockchain in Sustainable Smart Cities](https://www.mdpi.com/2624-831X/5/3/25)** – *[MDPI IoT Journal](https://www.mdpi.com/journal/iot), 2024*  
+- **[Taxi Revenue Optimization with Deep Q-Learning and Enhanced Data Visualization](https://ieeexplore.ieee.org/document/10574699/)** – *IEEE AIIoT Conference, India 2024*  
+- **[A Comprehensive Exploration on Different Machine Learning Techniques for State of Charge Estimation of EV Battery]([https://www.mdpi.com/2624-831X/5/3/25](https://ieeexplore.ieee.org/document/10294352))** – *IEEE UPEC Conference, 2023*
 
 
 ## 📊 Contributions
