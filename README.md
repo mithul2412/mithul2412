@@ -69,22 +69,22 @@ In the vast neural network of life, I'm a node constantly optimizing for impact.
 
 ## 🚀 Featured Projects and Publications
 
-**[OptionsViz - RAG powered LLM  for Options Market Analysis and Strategies Recommendation](https://github.com/mithul2412/OptionsViz)**
+- **[OptionsViz - RAG powered LLM  for Options Market Analysis and Strategies Recommendation](https://github.com/mithul2412/OptionsViz)**
 
-**[Churn Navigator - End to end MLOps Pipeline with Intelligent AI Agents for Customer Retention](https://github.com/mithul2412/Churn-Navigator)**
+- **[Churn Navigator - End to end MLOps Pipeline with Intelligent AI Agents for Customer Retention](https://github.com/mithul2412/Churn-Navigator)**
 
-**[SteamViz - Interactive Dashboard exploring Gaming Trends and Player Behaviors](https://github.com/mithul2412/Steam-Analytics)**
+- **[SteamViz - Interactive Dashboard exploring Gaming Trends and Player Behaviors](https://github.com/mithul2412/Steam-Analytics)**
 
-**[RentQuest - AI powered Housing Platform integrating Zillow data for Personalized Recommendations](https://github.com/mithul2412/RentQuest)**
+- **[RentQuest - AI powered Housing Platform integrating Zillow data for Personalized Recommendations](https://github.com/mithul2412/RentQuest)**
 
 ## 📚 Featured Publications
 
-- **[Intelligent Energy Management across Smart Grids Deploying 6G IoT, AI, and Blockchain in Sustainable Smart Cities](https://www.mdpi.com/2624-831X/5/3/25)** – *MDPI IoT Journal, 2024* [Github repo](https://github.com/mithul2412/Intelligent-Electrical-Grids-with-AI)
+- **[Intelligent Energy Management across Smart Grids Deploying 6G IoT, AI, and Blockchain in Sustainable Smart Cities](https://www.mdpi.com/2624-831X/5/3/25)** – *MDPI IoT Journal, 2024* [[Github repo]](https://github.com/mithul2412/Intelligent-Electrical-Grids-with-AI)
 
 - **[Taxi Revenue Optimization with Deep Q-Learning and Enhanced Data Visualization](https://ieeexplore.ieee.org/document/10574699/)** – *IEEE AIIoT Conference, India 2024*
-[Github repo](https://github.com/mithul2412/Reinforcement-Learning_Revenue-Optimization)
+[[Github repo]](https://github.com/mithul2412/Reinforcement-Learning_Revenue-Optimization)
    
-- **[A Comprehensive Exploration on Different Machine Learning Techniques for State of Charge Estimation of EV Battery](https://ieeexplore.ieee.org/document/10294352)** – *IEEE UPEC Conference, 2023* [Github repo](https://github.com/mithul2412/Li-Ion-Battery-Estimation-using-ML-for-EV)
+- **[A Comprehensive Exploration on Different Machine Learning Techniques for State of Charge Estimation of EV Battery](https://ieeexplore.ieee.org/document/10294352)** – *IEEE UPEC Conference, 2023* [[Github repo]](https://github.com/mithul2412/Li-Ion-Battery-Estimation-using-ML-for-EV)
 
 
 ## 📊 Contributions
