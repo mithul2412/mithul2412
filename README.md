@@ -13,7 +13,7 @@
 Consider life as one vast neural network and I’m the node fine‑tuning for maximum impact. I design AI architectures that transform unruly data into crystal‑clear insights. Driven by curiosity, fueled by innovation, and steered by an unwavering passion for elegant problem‑solving, I thrive at the crossroads of code and creativity. Let’s connect and turn the toughest challenges into our next breakthrough solutions.
 
 - 🎓 *MS in Data Science – University of Washington, Seattle*
-- 🚀 *Experienced in Data Science, ML, NLP, Reinforcement Learning & LLMs*
+- 🚀 *Experienced in LLMs, Agentic AI, ML, NLP and Reinforcement Learning*
 - 🌐 *MLOps & Cloud builder crafting end-to-end ML pipelines for scale*
 
 <br />
@@ -69,6 +69,8 @@ Consider life as one vast neural network and I’m the node fine‑tuning for ma
 - **[AgenticEngineeringOps - Human-in-the-loop Multi-Agent EngineeringOps Platform with A/B, RLAIF eval](https://github.com/mithul2412/Agentic-EngineeringOps)**
 
 - **[OptionsViz - RAG powered LLM  for Options Market Analysis and Strategies Recommendation](https://github.com/mithul2412/OptionsViz)**
+
+- **[Churn Navigator - End to end MLOps Pipeline with Intelligent AI Agents for Customer Retention](https://github.com/mithul2412/Churn-Navigator)**
 
 - **[SteamViz - Interactive Dashboard exploring Gaming Trends and Player Behaviors](https://github.com/mithul2412/Steam-Analytics)**
 
