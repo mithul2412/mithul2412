@@ -2,7 +2,7 @@
   
 # Hi, Mithul here 👋
 
-### Machine Learning | Data Science | Software Development 
+### AI Engineering | Machine Learning | Data Science | Software Development 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=4682B4&center=true&vCenter=true&random=false&width=600&height=100&lines=Data+Scientist;ML+Engineer;Software+Developer;Problem+Solver" alt="Typing SVG" />
 
@@ -66,9 +66,9 @@ Consider life as one vast neural network and I’m the node fine‑tuning for ma
 
 ## 🚀 Featured Projects 
 
-- **[OptionsViz - RAG powered LLM  for Options Market Analysis and Strategies Recommendation](https://github.com/mithul2412/OptionsViz)**
+- **[AgenticEngineeringOps - Human-in-the-loop Multi-Agent EngineeringOps Platform with A/B, RLAIF eval](https://github.com/mithul2412/Agentic-EngineeringOps)**
 
-- **[Churn Navigator - End to end MLOps Pipeline with Intelligent AI Agents for Customer Retention](https://github.com/mithul2412/Churn-Navigator)**
+- **[OptionsViz - RAG powered LLM  for Options Market Analysis and Strategies Recommendation](https://github.com/mithul2412/OptionsViz)**
 
 - **[SteamViz - Interactive Dashboard exploring Gaming Trends and Player Behaviors](https://github.com/mithul2412/Steam-Analytics)**
 
