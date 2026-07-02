@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-I build AI systems that turn messy, real-world data into decisions people can act on. My work sits at the intersection of applied ML, LLM agents, and production engineering — from multi-agent research platforms to pipelines running live in production. Curious by default, driven by elegant problem-solving, and always up for the hard ones.
+I build AI systems that turn messy, real-world data into decisions people can act on. My work sits at the intersection of applied ML, LLM agents, and production engineering, from multi-agent research platforms to pipelines running live in production. Curious by default, driven by elegant problem-solving, and always up for the hard ones.
 
 I've always come back to something Steve Jobs said — that you can't connect the dots looking forward, only looking backward. My own dots only made sense in hindsight, and I've learned to trust that the next one will connect too.
 Let's connect and turn the toughest problems into our next breakthrough.
