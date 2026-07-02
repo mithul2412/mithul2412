@@ -10,11 +10,15 @@
 
 ## 🌟 About Me
 
-Consider life as one vast neural network and I’m the node fine‑tuning for maximum impact. I design AI architectures that transform unruly data into crystal‑clear insights. Driven by curiosity, fueled by innovation, and steered by an unwavering passion for elegant problem‑solving, I thrive at the crossroads of code and creativity. Let’s connect and turn the toughest challenges into our next breakthrough solutions.
+I build AI systems that turn messy, real-world data into decisions people can act on. My work sits at the intersection of applied ML, LLM agents, and production engineering — from multi-agent research platforms to pipelines running live in production. Curious by default, driven by elegant problem-solving, and always up for the hard ones.
+
+I've always come back to something Steve Jobs said — that you can't connect the dots looking forward, only looking backward. My own dots only made sense in hindsight, and I've learned to trust that the next one will connect too.
+Let's connect and turn the toughest problems into our next breakthrough.
 
 - 🎓 *MS in Data Science – University of Washington, Seattle*
 - 🚀 *Experienced in LLMs, Agentic AI, ML, NLP and Reinforcement Learning*
 - 🌐 *MLOps & Cloud builder crafting end-to-end ML pipelines for scale*
+- ⚙️ *Currently: Data Scientist @ Tideworks Technology (Blackstone-backed)*
 
 <br />
 
